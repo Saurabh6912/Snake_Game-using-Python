@@ -31,6 +31,10 @@ The Game class serves as the entry point for running the game. It imports and in
 * **Try to eat as much food as possible without running into the walls or colliding with yourself.**
 
 ## Output
+![Screenshot 2023-09-11 193614](https://github.com/Saurabh6912/Snake_Game-using-Python/assets/135308872/2a7589b8-02ff-41d3-9b84-f736787122d7)
+
+
+![Screenshot 2023-09-11 193633](https://github.com/Saurabh6912/Snake_Game-using-Python/assets/135308872/a6f98514-1509-443a-b0a3-48be977e6cad)
 
 ## Features
 * Classic Snake gameplay.
